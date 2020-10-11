@@ -108,8 +108,7 @@ body {
   background-image: url("Homepg Photo.jpg");
   height: 100%;
   width: 100%;
-  margin: 0;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   overflow: hidden;
