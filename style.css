@@ -114,7 +114,7 @@ body {
   overflow: hidden;
   border-top: 1px solid #466995;
   display: grid;
-  padding: 0px 30px;
+  padding: 0px 33px;
   grid-template-rows: 15% 30% auto 20%;
   grid-template-columns: 25% 75%;
 }
